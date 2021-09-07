@@ -1,0 +1,11 @@
+/*
+https://css-tricks.com/how-to-disable-links/
+*/
+
+.btn-disabled {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+	pointer-events: none;
+}
