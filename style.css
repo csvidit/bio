@@ -9,3 +9,7 @@ https://css-tricks.com/how-to-disable-links/
   text-decoration: none;
 	pointer-events: none;
 }
+
+.footer-text{
+	line-height: 1.5;
+}
